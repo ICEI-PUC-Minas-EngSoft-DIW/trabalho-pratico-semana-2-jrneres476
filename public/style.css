@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+main{
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    margin: 10px;
+    padding: 10px;
+}
+
+aside{
+    background-color: gray;
+    margin: 10px;
+    padding: 10px;
+}
+
+#foto{
+    width: 150px;
+}
